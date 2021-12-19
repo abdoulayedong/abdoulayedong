@@ -16,7 +16,7 @@ public class AbdoulayeDong
 {
     public string Name => "Abdoulaye Dong";
     public string[] Roles =>  ["Software Developer"];
-    public string[] MainSkills =>  [".NET Ecosistem", "Software Design"];
+    public string[] MainSkills =>  [".NET Ecosystem", "Software Design"];
     public string[] SpokenLenguages => ["fr_FR", "en_EN"];
     
     public void SayHi() => Console.WriteLine("Welcome to my profile! I'm a software engineer enthousiaste about software design and best practice of development.");
