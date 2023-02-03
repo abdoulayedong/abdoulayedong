@@ -66,17 +66,17 @@ public class AbdoulayeDong
 
 <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=aizendong&theme=flat&&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=abdoulayedong&theme=flat&&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="150px" style="margin:0px 7px 15px 7px;" src="https://github-readme-stats.vercel.app/api?username=aizendong&count_private=true&show_icons=true&include_all_commits=true" alt="Gustavo's GitHub stats" />
+    <img align="center" height="150px" style="margin:0px 7px 15px 7px;" src="https://github-readme-stats.vercel.app/api?username=abdoulayedong&count_private=true&show_icons=true&include_all_commits=true" alt="Gustavo's GitHub stats" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="150px" style="margin:0px 7px 15px 7px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizendong&layout=compact&langs_count=8" alt="Gustavo's Top Langs" />
+    <img align="center" height="150px" style="margin:0px 7px 15px 7px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulayedong&layout=compact&langs_count=8" alt="Gustavo's Top Langs" />
   </a>
 </div>
 
@@ -89,11 +89,11 @@ public class AbdoulayeDong
 </details>
 
 <div align="center">
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=aizendong.aizendong)](url)-->
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdoulayedong.abdoulayedong)](url)-->
 <br>
 
-<a href = "https://github.com/aizendong/aizendong/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo=aizendong/aizendong"/>
+<a href = "https://github.com/abdoulayedong/abdoulayedong/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo=abdoulayedong/abdoulayedong"/>
 </a>
 
 **Contribute to this repo and get shown here**
